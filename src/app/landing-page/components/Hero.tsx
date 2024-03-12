@@ -56,7 +56,7 @@ export default function Hero() {
           </Typography>
           <Typography variant="body1" textAlign="center" color="text.secondary">
             Pike county's premiere climbing and fitness center coming soon<br />
-            Over 5000 square feet of climbing surface and calisthenics equipment
+            Over 7000 square feet of climbing surface and calisthenics equipment
           </Typography>
           {/* <Stack
             direction={{ xs: 'column', sm: 'row' }}
